@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ANGAD%20ANSH&fontColor=00FF41&color=0:000000,100:001F3F&stroke=00FF41&strokeWidth=2&animation=twinkling"/>
-</p>
-<h3 align="center">
-🛡️ Cybersecurity Enthusiast • Ethical Hacker • SOC Analyst Aspirant • Cloud Security Learner
-</h3>
+ANGAD ANSH
+
+Cybersecurity Enthusiast
+Learning to Build Secure Systems
+
+SOC • Cloud Security • Web Security • Ethical Hacking
+
+Turning Virtual to Reality
 
 Hi there 👋, I'm Angad Ansh
 
