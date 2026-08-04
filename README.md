@@ -9,19 +9,29 @@
 Hi there 👋, I'm Angad Ansh
 
 🛡️ Cybersecurity Enthusiast | Computer Science Engineering Student | Web Developer
+
 I'm a Computer Science Engineering student at Galgotias University with a strong passion for Cybersecurity, Ethical Hacking, and Cloud Security. I enjoy building secure applications, exploring security vulnerabilities, and continuously expanding my knowledge through hands-on projects and practical learning.
 
 👨‍💻 About Me
+
 🎓 B.Tech Computer Science Engineering Student
+
 🛡️ Passionate about Cybersecurity & Ethical Hacking
+
 🌐 Interested in Web Application Security
+
 🔍 Exploring Vulnerability Assessment & Penetration Testing
+
 🚀 Building projects that solve real-world problems
+
 📚 Always learning and improving my technical skills
 
 🛠️ Tech Stack
+
 -Programming Languages
+
 Java
+
 Python
 JavaScript
 SQL
