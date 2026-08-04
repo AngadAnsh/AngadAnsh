@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F2027,100:00FF41&height=280&section=header&text=Angad%20Ansh&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Ethical%20Hacker%20%7C%20SOC%20Analyst%20Aspirant&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ANGAD%20ANSH&fontColor=00FF41&color=0:000000,100:001F3F&stroke=00FF41&strokeWidth=2&animation=twinkling"/>
 </p>
+<h3 align="center">
+🛡️ Cybersecurity Enthusiast • Ethical Hacker • SOC Analyst Aspirant • Cloud Security Learner
+</h3>
 
 Hi there 👋, I'm Angad Ansh
 
