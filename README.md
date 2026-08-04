@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F2027,100:00FF41&height=280&section=header&text=Angad%20Ansh&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Ethical%20Hacker%20%7C%20SOC%20Analyst%20Aspirant&descAlignY=58&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F2027,100:00FF41&height=280&section=header&text=Angad%20Ansh&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Web%20Developer%20%7C%20Cloud%20Security%20Learner%20%7C%20SOC%20Analyst%20Aspirant&descAlignY=58&descAlign=50"/>
 </p>
 Hi there 👋, I'm Angad Ansh
 
