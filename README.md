@@ -24,14 +24,14 @@ I'm a Computer Science Engineering student at Galgotias University with a strong
 🛠️ Tech Stack
 
 -Programming Languages
-
+-
 Java |
 Python | 
 JavaScript | 
 SQL
--
--Web Development
 
+-Web Development
+-
 HTML | 
 CSS | 
 JavaScript | 
@@ -41,7 +41,7 @@ MySQL |
 SQLite
 
 -Cybersecurity
-
+-
 OWASP Top 10 | 
 Network Security | 
 Web Application Security | 
@@ -52,7 +52,7 @@ Burp Suite |
 SQLmap
 
 -Tools & Platforms
-
+-
 Git | 
 GitHub | 
 VS Code | 
@@ -61,7 +61,7 @@ Apache Tomcat |
 Canva
 
 🚀 Featured Projects
-
+-
 🛡️ HoneyShield
 
 A cybersecurity honeypot platform designed to detect, monitor, and analyze malicious HTTP and SSH activities through an interactive dashboard.
@@ -79,7 +79,7 @@ A machine learning project that recommends songs based on audio features using c
 A responsive e-commerce frontend built using HTML, CSS, and JavaScript, inspired by Amazon's user interface and shopping experience.
 
 📖 Currently Learning
-
+-
 SOC Analyst Fundamentals
 
 Ethical Hacking & Penetration Testing
@@ -99,7 +99,7 @@ Cloud Security
 Security Operations (SOC)
 
 🎯 Career Goals
-
+-
 🛡️ Become a skilled Ethical Hacker
 
 🔐 Build expertise in Web & Network Security
@@ -114,8 +114,9 @@ Security Operations (SOC)
 
 🌍 Help organizations build secure and resilient systems
 
-📫 Connect With Me
 
+📫 Connect With Me
+-
 💼 LinkedIn: https://www.linkedin.com/in/angad-ansh-18390a298/ 
 
 🌐 Portfolio (Coming Soon)
@@ -123,7 +124,7 @@ Security Operations (SOC)
 📧 Email: aangad820@gmail.com
 
 🚀 Vision
-
+-
 "Virtual to Reality."
 
 Turning innovative ideas into real-world secure solutions through technology, creativity, and continuous learning.
