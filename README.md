@@ -1,12 +1,12 @@
-ANGAD ANSH
-
-Cybersecurity Enthusiast
-Learning to Build Secure Systems
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=ANGAD%20ANSH&fontColor=00FF41&color=0:000000,100:001F3F&stroke=00FF41&strokeWidth=2&animation=twinkling"/>
+</p>
+<h3 align="center">
+🛡️ Learning to Build Secure Systems
 
 SOC • Cloud Security • Web Security • Ethical Hacking
 
-Turning Virtual to Reality
-
+</h3>
 Hi there 👋, I'm Angad Ansh
 
 🛡️ Cybersecurity Enthusiast | Computer Science Engineering Student | Web Developer
