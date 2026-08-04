@@ -1,14 +1,16 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0F2027,100:00FF41&height=280&section=header&text=Angad%20Ansh&fontSize=55&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Web%20Developer%20%7C%20Cloud%20Security%20Learner%20%7C%20SOC%20Analyst%20Aspirant&descAlignY=58&descAlign=50"/>
 </p>
+
 Hi there 👋, I'm Angad Ansh
+-
 
 🛡️ Cybersecurity Enthusiast | Computer Science Engineering Student | Web Developer
-
+-
 I'm a Computer Science Engineering student at Galgotias University with a strong passion for Cybersecurity, Ethical Hacking, and Cloud Security. I enjoy building secure applications, exploring security vulnerabilities, and continuously expanding my knowledge through hands-on projects and practical learning.
 
 👨‍💻 About Me
-
+-
 🎓 B.Tech Computer Science Engineering Student
 
 🛡️ Passionate about Cybersecurity & Ethical Hacking
@@ -22,7 +24,7 @@ I'm a Computer Science Engineering student at Galgotias University with a strong
 📚 Always learning and improving my technical skills
 
 🛠️ Tech Stack
-
+-
 -Programming Languages
 -
 Java |
@@ -63,19 +65,19 @@ Canva
 🚀 Featured Projects
 -
 🛡️ HoneyShield
-
+-
 A cybersecurity honeypot platform designed to detect, monitor, and analyze malicious HTTP and SSH activities through an interactive dashboard.
 
 🌾 SmartFarmer
-
+-
 A crop-selling platform connecting farmers and buyers with secure authentication, crop listings, and order management.
 
 🎵 Music Recommendation System
-
+-
 A machine learning project that recommends songs based on audio features using content-based filtering techniques.
 
 🛒 Amazon Clone
-
+-
 A responsive e-commerce frontend built using HTML, CSS, and JavaScript, inspired by Amazon's user interface and shopping experience.
 
 📖 Currently Learning
