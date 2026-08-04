@@ -25,33 +25,22 @@ I'm a Computer Science Engineering student at Galgotias University with a strong
 
 -Programming Languages
 
-Java
-
-Python
-
-JavaScript
-
+Java |
+Python | 
+JavaScript | 
 SQL
 
 -Web Development
-
-HTML
-
-CSS
-
-JavaScript
-
-JSP
-
-Databases
-
-MySQL
-
+HTML | 
+CSS | 
+JavaScript | 
+JSP | 
+Databases | 
+MySQL | 
 SQLite
 
 -Cybersecurity
-
-OWASP Top 10
+OWASP Top 10 | 
 
 Network Security
 
