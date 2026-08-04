@@ -29,8 +29,9 @@ Java |
 Python | 
 JavaScript | 
 SQL
-
+-
 -Web Development
+
 HTML | 
 CSS | 
 JavaScript | 
@@ -40,34 +41,23 @@ MySQL |
 SQLite
 
 -Cybersecurity
+
 OWASP Top 10 | 
-
-Network Security
-
-Web Application Security
-
-Vulnerability Assessment
-
-Nmap
-
-Wireshark
-
-Burp Suite
-
+Network Security | 
+Web Application Security | 
+Vulnerability Assessment | 
+Nmap | 
+Wireshark | 
+Burp Suite | 
 SQLmap
 
 -Tools & Platforms
 
-Git
-
-GitHub
-
-VS Code
-
-Eclipse IDE
-
-Apache Tomcat
-
+Git | 
+GitHub | 
+VS Code | 
+Eclipse IDE | 
+Apache Tomcat | 
 Canva
 
 🚀 Featured Projects
